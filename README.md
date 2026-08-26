@@ -44,8 +44,3 @@ Repeat
 
 This project simulates a basic traffic light control system using OpenPLC Ladder Logic. Timers are used to control the duration of each traffic light state. The red light remains active for 5 seconds, followed by the yellow light for 2 seconds, and the green light for 5 seconds. After the green-light sequence is completed, the system automatically returns to the red-light state and continuously repeats the sequence.
 
-## Ladder Diagram
-
-Add the screenshot of the OpenPLC Ladder Logic diagram here.
-
-![Traffic Light Ladder Logic](screenshots/traffic_light_ladder.png)
